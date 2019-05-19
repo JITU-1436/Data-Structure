@@ -8,3 +8,5 @@ Linklist,stack,queue,tree
 # Assignment3: Remove duplicate from the linklist
 # Assignment4: find common part from given two link list
 # Assignment5: Find next greater element of a given link list
+# Assignment9: Find a causin of any node in a given tree
+# Assignment10: Find a dhortest path between two node in a given tree
